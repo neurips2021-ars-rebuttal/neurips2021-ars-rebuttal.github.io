@@ -10,12 +10,12 @@
     </script>
 </head>
 
-#1. AM
+# 1. AM
 
-#2. VGG(mini) + CIFAR-5m generated
+# 2. VGG(mini) + CIFAR-5m generated
 
 
 ![cifar5m](https://github.com/neurips2021-ars-rebuttal/neurips2021-ars-rebuttal.github.io/blob/main/figure/nips_cifar5m.png)
 
-#3. VGG(mini) + CIFAR-100 generated
+# 3. VGG(mini) + CIFAR-100 generated
 ![cifar100](https://github.com/neurips2021-ars-rebuttal/neurips2021-ars-rebuttal.github.io/blob/main/figure/nips_cifar100.png)
