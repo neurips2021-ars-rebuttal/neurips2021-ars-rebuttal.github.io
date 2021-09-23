@@ -15,7 +15,7 @@
 #2. VGG(mini) + CIFAR-5m generated
 
 
-![](https://github.com/neurips2021-ars-rebuttal/neurips2021-ars-rebuttal.github.io/blob/main/figure/nips_cifar5m.png)
+![cifar5m](https://github.com/neurips2021-ars-rebuttal/neurips2021-ars-rebuttal.github.io/blob/main/figure/nips_cifar5m.png)
 
 #3. VGG(mini) + CIFAR-100 generated
-![](https://github.com/neurips2021-ars-rebuttal/neurips2021-ars-rebuttal.github.io/blob/main/figure/nips_cifar100.png)
+![cifar100](https://github.com/neurips2021-ars-rebuttal/neurips2021-ars-rebuttal.github.io/blob/main/figure/nips_cifar100.png)
